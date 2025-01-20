@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning
 - 📫 How to reach me: baral.shirish8@gmail.com      https://linktr.ee/shirish_baral
 - ⚡ Fun fact: Momentum is underrated
-- ![Shirish Baral's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shirish-baral&show_icons=true&theme=radical)
+- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shirish-baral&theme=radical)
+
 
 
 <!---
