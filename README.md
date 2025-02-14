@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mathematics and Tech
 - 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Deep Learning
 - 📫 How to reach me: baral.shirish8@gmail.com      https://linktr.ee/shirish_baral
-- ⚡ Fun fact: Momentum is underrated
+- ⚡ Fun fact: Momentum is truly underrated
 
 
 
